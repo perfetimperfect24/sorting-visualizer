@@ -7,3 +7,4 @@ WELCOME TO THE SORTING VISUALIZER PROJECT
 That's why we are making this project to let everyone understand how these algorithms work and through this project you also will get a deep understanding of such sorting algorithms.
 </p>
 <hr>
+  
